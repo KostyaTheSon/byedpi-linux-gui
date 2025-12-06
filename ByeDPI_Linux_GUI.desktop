@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=ByeDPI Linux GUI
+Comment=A graphical interface for the ByeDPI DPI circumvention tool
+Exec=python3 /workspace/ByeDPI_GUI.py
+Icon=network-wired
+Terminal=false
+Categories=Network;Proxy;
